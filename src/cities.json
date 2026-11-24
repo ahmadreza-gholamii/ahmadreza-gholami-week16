@@ -1,0 +1,3467 @@
+[
+  {
+    "id": 1,
+    "name": "Aberdeen",
+    "country": "United States",
+    "population": 80751,
+    "area": 60.8,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Abilene",
+    "country": "United States",
+    "population": 125182,
+    "area": 105.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Akron",
+    "country": "United States",
+    "population": 190469,
+    "area": 62.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Albany",
+    "country": "United States",
+    "population": 99224,
+    "area": 21.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Albuquerque",
+    "country": "United States",
+    "population": 564559,
+    "area": 187.7,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Alexandria",
+    "country": "United States",
+    "population": 159467,
+    "area": 15.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Allentown",
+    "country": "United States",
+    "population": 125845,
+    "area": 17.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Amarillo",
+    "country": "United States",
+    "population": 200393,
+    "area": 99.5,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Anaheim",
+    "country": "United States",
+    "population": 346824,
+    "area": 50.3,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Anchorage",
+    "country": "United States",
+    "population": 291247,
+    "area": 1706.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Ann Arbor",
+    "country": "United States",
+    "population": 123851,
+    "area": 27.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Antioch",
+    "country": "United States",
+    "population": 94728,
+    "area": 60.4,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Apple Valley",
+    "country": "United States",
+    "population": 84322,
+    "area": 37.2,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Appleton",
+    "country": "United States",
+    "population": 75000,
+    "area": 24.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Arlington",
+    "country": "United States",
+    "population": 394266,
+    "area": 95.9,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Arvada",
+    "country": "United States",
+    "population": 124402,
+    "area": 35.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Asheville",
+    "country": "United States",
+    "population": 94589,
+    "area": 45.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Athens",
+    "country": "United States",
+    "population": 127315,
+    "area": 116.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Atlanta",
+    "country": "United States",
+    "population": 498715,
+    "area": 135.3,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 20,
+    "name": "Atlantic City",
+    "country": "United States",
+    "population": 78745,
+    "area": 73.6,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Augusta",
+    "country": "United States",
+    "population": 202081,
+    "area": 302.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Aurora",
+    "country": "United States",
+    "population": 386261,
+    "area": 154.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Austin",
+    "country": "United States",
+    "population": 978908,
+    "area": 305.1,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Bakersfield",
+    "country": "United States",
+    "population": 403455,
+    "area": 149.8,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Baltimore",
+    "country": "United States",
+    "population": 585708,
+    "area": 80.9,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Barnstable",
+    "country": "United States",
+    "population": 45286,
+    "area": 41.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 27,
+    "name": "Baton Rouge",
+    "country": "United States",
+    "population": 227470,
+    "area": 79.1,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Beaumont",
+    "country": "United States",
+    "population": 70193,
+    "area": 45.7,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Bel Air",
+    "country": "United States",
+    "population": 115399,
+    "area": 36.2,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Bellevue",
+    "country": "United States",
+    "population": 151854,
+    "area": 33.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Berkeley",
+    "country": "United States",
+    "population": 124321,
+    "area": 10.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Bethlehem",
+    "country": "United States",
+    "population": 27741,
+    "area": 51.9,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Billings",
+    "country": "United States",
+    "population": 117116,
+    "area": 43.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 34,
+    "name": "Birmingham",
+    "country": "United States",
+    "population": 200733,
+    "area": 146.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 35,
+    "name": "Bloomington",
+    "country": "United States",
+    "population": 79000,
+    "area": 23.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 36,
+    "name": "Boise",
+    "country": "United States",
+    "population": 235684,
+    "area": 81.6,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 37,
+    "name": "Boise City",
+    "country": "United States",
+    "population": 235684,
+    "area": 81.6,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 38,
+    "name": "Bonita Springs",
+    "country": "United States",
+    "population": 118379,
+    "area": 25.2,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 39,
+    "name": "Boston",
+    "country": "United States",
+    "population": 675647,
+    "area": 48.3,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 40,
+    "name": "Boulder",
+    "country": "United States",
+    "population": 108090,
+    "area": 25.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 41,
+    "name": "Bradenton",
+    "country": "United States",
+    "population": 56080,
+    "area": 12.1,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 42,
+    "name": "Bremerton",
+    "country": "United States",
+    "population": 87793,
+    "area": 67.3,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 43,
+    "name": "Bridgeport",
+    "country": "United States",
+    "population": 148654,
+    "area": 16.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 44,
+    "name": "Brighton",
+    "country": "United States",
+    "population": 99928,
+    "area": 42.5,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 45,
+    "name": "Brownsville",
+    "country": "United States",
+    "population": 186738,
+    "area": 132.3,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 46,
+    "name": "Bryan",
+    "country": "United States",
+    "population": 97266,
+    "area": 38.7,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 47,
+    "name": "Buffalo",
+    "country": "United States",
+    "population": 278349,
+    "area": 40.4,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 48,
+    "name": "Burbank",
+    "country": "United States",
+    "population": 107337,
+    "area": 17.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 49,
+    "name": "Burlington",
+    "country": "United States",
+    "population": 110322,
+    "area": 35.3,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 50,
+    "name": "Cambridge",
+    "country": "United States",
+    "population": 118403,
+    "area": 6.4,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 51,
+    "name": "Canton",
+    "country": "United States",
+    "population": 70872,
+    "area": 25.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 52,
+    "name": "Cape Coral",
+    "country": "United States",
+    "population": 194016,
+    "area": 105.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 53,
+    "name": "Carrollton",
+    "country": "United States",
+    "population": 133168,
+    "area": 36.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 54,
+    "name": "Cary",
+    "country": "United States",
+    "population": 174721,
+    "area": 55.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 55,
+    "name": "Cathedral City",
+    "country": "United States",
+    "population": 98129,
+    "area": 67.3,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 56,
+    "name": "Cedar Rapids",
+    "country": "United States",
+    "population": 137710,
+    "area": 71.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 57,
+    "name": "Champaign",
+    "country": "United States",
+    "population": 88302,
+    "area": 22.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 58,
+    "name": "Chandler",
+    "country": "United States",
+    "population": 275987,
+    "area": 64.4,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 59,
+    "name": "Charleston",
+    "country": "United States",
+    "population": 150227,
+    "area": 109.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Charlotte",
+    "country": "United States",
+    "population": 874579,
+    "area": 305.4,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Chattanooga",
+    "country": "United States",
+    "population": 181099,
+    "area": 137.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 62,
+    "name": "Chesapeake",
+    "country": "United States",
+    "population": 249422,
+    "area": 340.7,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 63,
+    "name": "Chicago",
+    "country": "United States",
+    "population": 2746388,
+    "area": 227.3,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 64,
+    "name": "Chula Vista",
+    "country": "United States",
+    "population": 275487,
+    "area": 49.6,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 65,
+    "name": "Cincinnati",
+    "country": "United States",
+    "population": 309317,
+    "area": 77.9,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 66,
+    "name": "Clarke County",
+    "country": "United States",
+    "population": 44050,
+    "area": 38.9,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 67,
+    "name": "Clarksville",
+    "country": "United States",
+    "population": 166722,
+    "area": 99.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 68,
+    "name": "Clearwater",
+    "country": "United States",
+    "population": 117292,
+    "area": 25.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 69,
+    "name": "Cleveland",
+    "country": "United States",
+    "population": 372624,
+    "area": 77.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 70,
+    "name": "College Station",
+    "country": "United States",
+    "population": 120399,
+    "area": 49.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 71,
+    "name": "Colorado Springs",
+    "country": "United States",
+    "population": 478961,
+    "area": 194.5,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 72,
+    "name": "Columbia",
+    "country": "United States",
+    "population": 136632,
+    "area": 132.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 73,
+    "name": "Columbus",
+    "country": "United States",
+    "population": 905748,
+    "area": 217.2,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 74,
+    "name": "Concord",
+    "country": "United States",
+    "population": 125410,
+    "area": 30.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 75,
+    "name": "Coral Springs",
+    "country": "United States",
+    "population": 134394,
+    "area": 24.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 76,
+    "name": "Corona",
+    "country": "United States",
+    "population": 157136,
+    "area": 38.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 77,
+    "name": "Corpus Christi",
+    "country": "United States",
+    "population": 317863,
+    "area": 174.6,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 78,
+    "name": "Costa Mesa",
+    "country": "United States",
+    "population": 111918,
+    "area": 15.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 79,
+    "name": "Dallas",
+    "country": "United States",
+    "population": 1304379,
+    "area": 340.5,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 80,
+    "name": "Daly City",
+    "country": "United States",
+    "population": 104901,
+    "area": 7.6,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 81,
+    "name": "Danbury",
+    "country": "United States",
+    "population": 86518,
+    "area": 42.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 82,
+    "name": "Davenport",
+    "country": "United States",
+    "population": 101724,
+    "area": 63.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 83,
+    "name": "Davidson County",
+    "country": "United States",
+    "population": 60614,
+    "area": 13.1,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 84,
+    "name": "Dayton",
+    "country": "United States",
+    "population": 137644,
+    "area": 55.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 85,
+    "name": "Daytona Beach",
+    "country": "United States",
+    "population": 72647,
+    "area": 64.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 86,
+    "name": "Deltona",
+    "country": "United States",
+    "population": 52331,
+    "area": 22.6,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 87,
+    "name": "Denton",
+    "country": "United States",
+    "population": 148146,
+    "area": 89.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 88,
+    "name": "Denver",
+    "country": "United States",
+    "population": 715522,
+    "area": 153.3,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 89,
+    "name": "Des Moines",
+    "country": "United States",
+    "population": 214133,
+    "area": 80.9,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 90,
+    "name": "Detroit",
+    "country": "United States",
+    "population": 639111,
+    "area": 138.7,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 91,
+    "name": "Downey",
+    "country": "United States",
+    "population": 114355,
+    "area": 12.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 92,
+    "name": "Duluth",
+    "country": "United States",
+    "population": 86372,
+    "area": 68.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 93,
+    "name": "Durham",
+    "country": "United States",
+    "population": 283506,
+    "area": 107.4,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 94,
+    "name": "El Monte",
+    "country": "United States",
+    "population": 109450,
+    "area": 9.6,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 95,
+    "name": "El Paso",
+    "country": "United States",
+    "population": 678815,
+    "area": 256.3,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 96,
+    "name": "Elizabeth",
+    "country": "United States",
+    "population": 137298,
+    "area": 12.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 97,
+    "name": "Elk Grove",
+    "country": "United States",
+    "population": 176154,
+    "area": 42.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 98,
+    "name": "Elkhart",
+    "country": "United States",
+    "population": 65134,
+    "area": 58.6,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 99,
+    "name": "Erie",
+    "country": "United States",
+    "population": 94831,
+    "area": 19.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Escondido",
+    "country": "United States",
+    "population": 151038,
+    "area": 37.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 101,
+    "name": "Eugene",
+    "country": "United States",
+    "population": 176654,
+    "area": 44.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Evansville",
+    "country": "United States",
+    "population": 117298,
+    "area": 47.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Fairfield",
+    "country": "United States",
+    "population": 64554,
+    "area": 52.5,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 104,
+    "name": "Fargo",
+    "country": "United States",
+    "population": 125990,
+    "area": 48.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Fayetteville",
+    "country": "United States",
+    "population": 208501,
+    "area": 147.7,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Fitchburg",
+    "country": "United States",
+    "population": 85333,
+    "area": 35.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Flint",
+    "country": "United States",
+    "population": 81252,
+    "area": 34.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Fontana",
+    "country": "United States",
+    "population": 208393,
+    "area": 42.4,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Fort Collins",
+    "country": "United States",
+    "population": 169810,
+    "area": 56.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Fort Lauderdale",
+    "country": "United States",
+    "population": 182760,
+    "area": 34.6,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 111,
+    "name": "Fort Smith",
+    "country": "United States",
+    "population": 89142,
+    "area": 62.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 112,
+    "name": "Fort Walton Beach",
+    "country": "United States",
+    "population": 59860,
+    "area": 62.9,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Fort Wayne",
+    "country": "United States",
+    "population": 263886,
+    "area": 110.6,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 114,
+    "name": "Fort Worth",
+    "country": "United States",
+    "population": 918915,
+    "area": 342.9,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 115,
+    "name": "Frederick",
+    "country": "United States",
+    "population": 78171,
+    "area": 22.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Fremont",
+    "country": "United States",
+    "population": 230504,
+    "area": 77.5,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Fresno",
+    "country": "United States",
+    "population": 542107,
+    "area": 112.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 118,
+    "name": "Fullerton",
+    "country": "United States",
+    "population": 143617,
+    "area": 22.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 119,
+    "name": "Gainesville",
+    "country": "United States",
+    "population": 141085,
+    "area": 62.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 120,
+    "name": "Garden Grove",
+    "country": "United States",
+    "population": 171949,
+    "area": 18.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 121,
+    "name": "Garland",
+    "country": "United States",
+    "population": 246018,
+    "area": 57.1,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 122,
+    "name": "Gastonia",
+    "country": "United States",
+    "population": 80411,
+    "area": 51.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 123,
+    "name": "Gilbert",
+    "country": "United States",
+    "population": 267918,
+    "area": 68.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 124,
+    "name": "Glendale",
+    "country": "United States",
+    "population": 248325,
+    "area": 61.6,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 125,
+    "name": "Grand Prairie",
+    "country": "United States",
+    "population": 196100,
+    "area": 81.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 126,
+    "name": "Grand Rapids",
+    "country": "United States",
+    "population": 198917,
+    "area": 44.4,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 127,
+    "name": "Grayslake",
+    "country": "United States",
+    "population": 93819,
+    "area": 51.5,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 128,
+    "name": "Green Bay",
+    "country": "United States",
+    "population": 107395,
+    "area": 45.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 129,
+    "name": "GreenBay",
+    "country": "United States",
+    "population": 107395,
+    "area": 45.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 130,
+    "name": "Greensboro",
+    "country": "United States",
+    "population": 299035,
+    "area": 131.2,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 131,
+    "name": "Greenville",
+    "country": "United States",
+    "population": 70635,
+    "area": 28.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 132,
+    "name": "Gulfport-Biloxi",
+    "country": "United States",
+    "population": 69994,
+    "area": 50.4,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 133,
+    "name": "Hagerstown",
+    "country": "United States",
+    "population": 43527,
+    "area": 12.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 134,
+    "name": "Hampton",
+    "country": "United States",
+    "population": 137148,
+    "area": 51.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 135,
+    "name": "Harlingen",
+    "country": "United States",
+    "population": 71829,
+    "area": 40.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 136,
+    "name": "Harrisburg",
+    "country": "United States",
+    "population": 50099,
+    "area": 8.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 137,
+    "name": "Hartford",
+    "country": "United States",
+    "population": 121054,
+    "area": 17.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 138,
+    "name": "Havre de Grace",
+    "country": "United States",
+    "population": 32967,
+    "area": 18.4,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 139,
+    "name": "Hayward",
+    "country": "United States",
+    "population": 162954,
+    "area": 45.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 140,
+    "name": "Hemet",
+    "country": "United States",
+    "population": 89833,
+    "area": 28.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 141,
+    "name": "Henderson",
+    "country": "United States",
+    "population": 320189,
+    "area": 107.7,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 142,
+    "name": "Hesperia",
+    "country": "United States",
+    "population": 99818,
+    "area": 73.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 143,
+    "name": "Hialeah",
+    "country": "United States",
+    "population": 223109,
+    "area": 21.6,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 144,
+    "name": "Hickory",
+    "country": "United States",
+    "population": 40502,
+    "area": 65.9,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 145,
+    "name": "High Point",
+    "country": "United States",
+    "population": 114059,
+    "area": 55.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 146,
+    "name": "Hollywood",
+    "country": "United States",
+    "population": 153067,
+    "area": 27.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 147,
+    "name": "Honolulu",
+    "country": "United States",
+    "population": 350964,
+    "area": 68.4,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 148,
+    "name": "Houma",
+    "country": "United States",
+    "population": 26318,
+    "area": 40.2,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 149,
+    "name": "Houston",
+    "country": "United States",
+    "population": 2304580,
+    "area": 637.5,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 150,
+    "name": "Howell",
+    "country": "United States",
+    "population": 114439,
+    "area": 47.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 151,
+    "name": "Huntington",
+    "country": "United States",
+    "population": 46048,
+    "area": 16.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 152,
+    "name": "Huntington Beach",
+    "country": "United States",
+    "population": 198711,
+    "area": 26.7,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 153,
+    "name": "Huntsville",
+    "country": "United States",
+    "population": 215006,
+    "area": 209.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 154,
+    "name": "Independence",
+    "country": "United States",
+    "population": 123011,
+    "area": 78.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 155,
+    "name": "Indianapolis",
+    "country": "United States",
+    "population": 887642,
+    "area": 361.6,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 156,
+    "name": "Inglewood",
+    "country": "United States",
+    "population": 107762,
+    "area": 9.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 157,
+    "name": "Irvine",
+    "country": "United States",
+    "population": 307670,
+    "area": 65.6,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 158,
+    "name": "Irving",
+    "country": "United States",
+    "population": 256684,
+    "area": 67.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 159,
+    "name": "Jackson",
+    "country": "United States",
+    "population": 153701,
+    "area": 113.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 160,
+    "name": "Jacksonville",
+    "country": "United States",
+    "population": 949611,
+    "area": 747.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 161,
+    "name": "Jefferson",
+    "country": "United States",
+    "population": 44746,
+    "area": 52.9,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 162,
+    "name": "Jersey City",
+    "country": "United States",
+    "population": 292449,
+    "area": 14.8,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 163,
+    "name": "Johnson City",
+    "country": "United States",
+    "population": 98393,
+    "area": 16.4,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 164,
+    "name": "Joliet",
+    "country": "United States",
+    "population": 150362,
+    "area": 62.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 165,
+    "name": "Kailua",
+    "country": "United States",
+    "population": 113538,
+    "area": 69.5,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 166,
+    "name": "Kalamazoo",
+    "country": "United States",
+    "population": 73476,
+    "area": 25.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 167,
+    "name": "Kaneohe",
+    "country": "United States",
+    "population": 72124,
+    "area": 74.8,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 168,
+    "name": "Kansas City",
+    "country": "United States",
+    "population": 508090,
+    "area": 314.9,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 169,
+    "name": "Kennewick",
+    "country": "United States",
+    "population": 84347,
+    "area": 27.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 170,
+    "name": "Kenosha",
+    "country": "United States",
+    "population": 99986,
+    "area": 27.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 171,
+    "name": "Killeen",
+    "country": "United States",
+    "population": 153095,
+    "area": 54.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 172,
+    "name": "Kissimmee",
+    "country": "United States",
+    "population": 79226,
+    "area": 21.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 173,
+    "name": "Knoxville",
+    "country": "United States",
+    "population": 190740,
+    "area": 98.5,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 174,
+    "name": "Lacey",
+    "country": "United States",
+    "population": 47257,
+    "area": 10.6,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 175,
+    "name": "Lafayette",
+    "country": "United States",
+    "population": 126674,
+    "area": 55.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 176,
+    "name": "Lake Charles",
+    "country": "United States",
+    "population": 84872,
+    "area": 44.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 177,
+    "name": "Lakeland",
+    "country": "United States",
+    "population": 112641,
+    "area": 74.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 178,
+    "name": "Lakewood",
+    "country": "United States",
+    "population": 155984,
+    "area": 42.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 179,
+    "name": "Lancaster",
+    "country": "United States",
+    "population": 173516,
+    "area": 94.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 180,
+    "name": "Lansing",
+    "country": "United States",
+    "population": 112644,
+    "area": 36.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 181,
+    "name": "Laredo",
+    "country": "United States",
+    "population": 255205,
+    "area": 90.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 182,
+    "name": "Las Cruces",
+    "country": "United States",
+    "population": 111385,
+    "area": 76.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 183,
+    "name": "Las Vegas",
+    "country": "United States",
+    "population": 641903,
+    "area": 135.8,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 184,
+    "name": "Layton",
+    "country": "United States",
+    "population": 81773,
+    "area": 22.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 185,
+    "name": "Leominster",
+    "country": "United States",
+    "population": 34111,
+    "area": 73.4,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 186,
+    "name": "Lewisville",
+    "country": "United States",
+    "population": 111822,
+    "area": 36.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 187,
+    "name": "Lexington",
+    "country": "United States",
+    "population": 322570,
+    "area": 283.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 188,
+    "name": "Lincoln",
+    "country": "United States",
+    "population": 291082,
+    "area": 92.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 189,
+    "name": "Little Rock",
+    "country": "United States",
+    "population": 202591,
+    "area": 119.2,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 190,
+    "name": "Long Beach",
+    "country": "United States",
+    "population": 466742,
+    "area": 50.3,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 191,
+    "name": "Lorain",
+    "country": "United States",
+    "population": 46842,
+    "area": 41.8,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 192,
+    "name": "Los Angeles",
+    "country": "United States",
+    "population": 3898747,
+    "area": 468.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 193,
+    "name": "Louisville",
+    "country": "United States",
+    "population": 633045,
+    "area": 62.1,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 194,
+    "name": "Lowell",
+    "country": "United States",
+    "population": 115554,
+    "area": 14.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 195,
+    "name": "Lubbock",
+    "country": "United States",
+    "population": 257141,
+    "area": 122.4,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 196,
+    "name": "Macon",
+    "country": "United States",
+    "population": 157346,
+    "area": 56.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 197,
+    "name": "Madison",
+    "country": "United States",
+    "population": 269840,
+    "area": 76.8,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 198,
+    "name": "Manchester",
+    "country": "United States",
+    "population": 115644,
+    "area": 33.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 199,
+    "name": "Marina",
+    "country": "United States",
+    "population": 89717,
+    "area": 36.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 200,
+    "name": "Marysville",
+    "country": "United States",
+    "population": 85107,
+    "area": 77.5,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 201,
+    "name": "McAllen",
+    "country": "United States",
+    "population": 142210,
+    "area": 48.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 202,
+    "name": "McHenry",
+    "country": "United States",
+    "population": 27100,
+    "area": 15.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 203,
+    "name": "Medford",
+    "country": "United States",
+    "population": 85824,
+    "area": 25.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 204,
+    "name": "Melbourne",
+    "country": "United States",
+    "population": 84678,
+    "area": 44.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 205,
+    "name": "Memphis",
+    "country": "United States",
+    "population": 633104,
+    "area": 294.8,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 206,
+    "name": "Merced",
+    "country": "United States",
+    "population": 86333,
+    "area": 23.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 207,
+    "name": "Mesa",
+    "country": "United States",
+    "population": 504258,
+    "area": 138.2,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 208,
+    "name": "Mesquite",
+    "country": "United States",
+    "population": 150108,
+    "area": 46.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 209,
+    "name": "Miami",
+    "country": "United States",
+    "population": 442241,
+    "area": 35.9,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 210,
+    "name": "Milwaukee",
+    "country": "United States",
+    "population": 577222,
+    "area": 96.1,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 211,
+    "name": "Minneapolis",
+    "country": "United States",
+    "population": 429954,
+    "area": 54.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 212,
+    "name": "Miramar",
+    "country": "United States",
+    "population": 134721,
+    "area": 31.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 213,
+    "name": "Mission Viejo",
+    "country": "United States",
+    "population": 93587,
+    "area": 18.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 214,
+    "name": "Mobile",
+    "country": "United States",
+    "population": 187041,
+    "area": 139.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 215,
+    "name": "Modesto",
+    "country": "United States",
+    "population": 218464,
+    "area": 36.9,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 216,
+    "name": "Monroe",
+    "country": "United States",
+    "population": 53741,
+    "area": 57.1,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 217,
+    "name": "Monterey",
+    "country": "United States",
+    "population": 26782,
+    "area": 79.3,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 218,
+    "name": "Montgomery",
+    "country": "United States",
+    "population": 200603,
+    "area": 159.6,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 219,
+    "name": "Moreno Valley",
+    "country": "United States",
+    "population": 208634,
+    "area": 51.3,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 220,
+    "name": "Murfreesboro",
+    "country": "United States",
+    "population": 152769,
+    "area": 56.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 221,
+    "name": "Murrieta",
+    "country": "United States",
+    "population": 110691,
+    "area": 33.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 222,
+    "name": "Muskegon",
+    "country": "United States",
+    "population": 98526,
+    "area": 22.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 223,
+    "name": "Myrtle Beach",
+    "country": "United States",
+    "population": 65167,
+    "area": 12.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 224,
+    "name": "Naperville",
+    "country": "United States",
+    "population": 149540,
+    "area": 39.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 225,
+    "name": "Naples",
+    "country": "United States",
+    "population": 64655,
+    "area": 16.1,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 226,
+    "name": "Nashua",
+    "country": "United States",
+    "population": 91322,
+    "area": 31.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 227,
+    "name": "Nashville",
+    "country": "United States",
+    "population": 689447,
+    "area": 475.1,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 228,
+    "name": "New Bedford",
+    "country": "United States",
+    "population": 101079,
+    "area": 20.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 229,
+    "name": "New Haven",
+    "country": "United States",
+    "population": 134023,
+    "area": 19.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 230,
+    "name": "New London",
+    "country": "United States",
+    "population": 107761,
+    "area": 36.5,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 231,
+    "name": "New Orleans",
+    "country": "United States",
+    "population": 383997,
+    "area": 169.4,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 232,
+    "name": "New York",
+    "country": "United States",
+    "population": 8336817,
+    "area": 302.6,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 233,
+    "name": "New York City",
+    "country": "United States",
+    "population": 8336817,
+    "area": 302.6,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 234,
+    "name": "Newark",
+    "country": "United States",
+    "population": 311549,
+    "area": 24.1,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 235,
+    "name": "Newburgh",
+    "country": "United States",
+    "population": 63640,
+    "area": 52.9,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 236,
+    "name": "Newport News",
+    "country": "United States",
+    "population": 186247,
+    "area": 69.2,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 237,
+    "name": "Norfolk",
+    "country": "United States",
+    "population": 238005,
+    "area": 53.7,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 238,
+    "name": "Normal",
+    "country": "United States",
+    "population": 107865,
+    "area": 11.4,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 239,
+    "name": "Norman",
+    "country": "United States",
+    "population": 128026,
+    "area": 178.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 240,
+    "name": "North Charleston",
+    "country": "United States",
+    "population": 114852,
+    "area": 74.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 241,
+    "name": "North Las Vegas",
+    "country": "United States",
+    "population": 262527,
+    "area": 101.4,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 242,
+    "name": "North Port",
+    "country": "United States",
+    "population": 54061,
+    "area": 55.4,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 243,
+    "name": "Norwalk",
+    "country": "United States",
+    "population": 88227,
+    "area": 39.8,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 244,
+    "name": "Norwich",
+    "country": "United States",
+    "population": 99923,
+    "area": 20.9,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 245,
+    "name": "Oakland",
+    "country": "United States",
+    "population": 440646,
+    "area": 55.8,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 246,
+    "name": "Ocala",
+    "country": "United States",
+    "population": 63600,
+    "area": 44.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 247,
+    "name": "Oceanside",
+    "country": "United States",
+    "population": 174648,
+    "area": 41.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 248,
+    "name": "Odessa",
+    "country": "United States",
+    "population": 114696,
+    "area": 42.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 249,
+    "name": "Ogden",
+    "country": "United States",
+    "population": 87321,
+    "area": 26.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 250,
+    "name": "Oklahoma City",
+    "country": "United States",
+    "population": 681054,
+    "area": 606.4,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 251,
+    "name": "Olathe",
+    "country": "United States",
+    "population": 141290,
+    "area": 60.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 252,
+    "name": "Olympia",
+    "country": "United States",
+    "population": 55605,
+    "area": 18.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 253,
+    "name": "Omaha",
+    "country": "United States",
+    "population": 486051,
+    "area": 127.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 254,
+    "name": "Ontario",
+    "country": "United States",
+    "population": 175265,
+    "area": 50.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 255,
+    "name": "Orange",
+    "country": "United States",
+    "population": 139911,
+    "area": 25.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 256,
+    "name": "Orem",
+    "country": "United States",
+    "population": 98129,
+    "area": 18.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 257,
+    "name": "Orlando",
+    "country": "United States",
+    "population": 307573,
+    "area": 110.6,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 258,
+    "name": "Overland Park",
+    "country": "United States",
+    "population": 197238,
+    "area": 75.3,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 259,
+    "name": "Oxnard",
+    "country": "United States",
+    "population": 202063,
+    "area": 26.9,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 260,
+    "name": "Palm Bay",
+    "country": "United States",
+    "population": 119760,
+    "area": 66.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 261,
+    "name": "Palm Springs",
+    "country": "United States",
+    "population": 44575,
+    "area": 94.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 262,
+    "name": "Palmdale",
+    "country": "United States",
+    "population": 169450,
+    "area": 106.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 263,
+    "name": "Panama City",
+    "country": "United States",
+    "population": 90592,
+    "area": 43.2,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 264,
+    "name": "Pasadena",
+    "country": "United States",
+    "population": 138699,
+    "area": 23.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 265,
+    "name": "Paterson",
+    "country": "United States",
+    "population": 159732,
+    "area": 8.4,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 266,
+    "name": "Pembroke Pines",
+    "country": "United States",
+    "population": 171178,
+    "area": 34.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 267,
+    "name": "Pensacola",
+    "country": "United States",
+    "population": 54312,
+    "area": 23.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 268,
+    "name": "Peoria",
+    "country": "United States",
+    "population": 113150,
+    "area": 50.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 269,
+    "name": "Philadelphia",
+    "country": "United States",
+    "population": 1603797,
+    "area": 134.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 270,
+    "name": "Phoenix",
+    "country": "United States",
+    "population": 1608139,
+    "area": 517.9,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 271,
+    "name": "Pittsburgh",
+    "country": "United States",
+    "population": 302971,
+    "area": 55.4,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 272,
+    "name": "Plano",
+    "country": "United States",
+    "population": 285494,
+    "area": 71.6,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 273,
+    "name": "Pomona",
+    "country": "United States",
+    "population": 151691,
+    "area": 23.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 274,
+    "name": "Pompano Beach",
+    "country": "United States",
+    "population": 112118,
+    "area": 24.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 275,
+    "name": "Port Arthur",
+    "country": "United States",
+    "population": 27499,
+    "area": 30.9,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 276,
+    "name": "Port Orange",
+    "country": "United States",
+    "population": 66334,
+    "area": 39.5,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 277,
+    "name": "Port Saint Lucie",
+    "country": "United States",
+    "population": 119552,
+    "area": 64.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 278,
+    "name": "Port St. Lucie",
+    "country": "United States",
+    "population": 48441,
+    "area": 21.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 279,
+    "name": "Portland",
+    "country": "United States",
+    "population": 652503,
+    "area": 133.4,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 280,
+    "name": "Portsmouth",
+    "country": "United States",
+    "population": 118874,
+    "area": 37.9,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 281,
+    "name": "Poughkeepsie",
+    "country": "United States",
+    "population": 103765,
+    "area": 74.2,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 282,
+    "name": "Providence",
+    "country": "United States",
+    "population": 190934,
+    "area": 18.4,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 283,
+    "name": "Provo",
+    "country": "United States",
+    "population": 115264,
+    "area": 41.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 284,
+    "name": "Pueblo",
+    "country": "United States",
+    "population": 111876,
+    "area": 53.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 285,
+    "name": "Punta Gorda",
+    "country": "United States",
+    "population": 88313,
+    "area": 37.3,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 286,
+    "name": "Racine",
+    "country": "United States",
+    "population": 77816,
+    "area": 15.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 287,
+    "name": "Raleigh",
+    "country": "United States",
+    "population": 467665,
+    "area": 144.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 288,
+    "name": "Rancho Cucamonga",
+    "country": "United States",
+    "population": 174453,
+    "area": 39.9,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 289,
+    "name": "Reading",
+    "country": "United States",
+    "population": 95112,
+    "area": 10.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 290,
+    "name": "Redding",
+    "country": "United States",
+    "population": 93512,
+    "area": 59.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 291,
+    "name": "Reno",
+    "country": "United States",
+    "population": 264738,
+    "area": 103.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 292,
+    "name": "Richland",
+    "country": "United States",
+    "population": 51798,
+    "area": 44.9,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 293,
+    "name": "Richmond",
+    "country": "United States",
+    "population": 226610,
+    "area": 60.1,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 294,
+    "name": "Richmond County",
+    "country": "United States",
+    "population": 86504,
+    "area": 40.1,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 295,
+    "name": "Riverside",
+    "country": "United States",
+    "population": 314998,
+    "area": 81.1,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 296,
+    "name": "Roanoke",
+    "country": "United States",
+    "population": 100011,
+    "area": 43.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 297,
+    "name": "Rochester",
+    "country": "United States",
+    "population": 211328,
+    "area": 35.8,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 298,
+    "name": "Rockford",
+    "country": "United States",
+    "population": 148696,
+    "area": 61.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 299,
+    "name": "Roseville",
+    "country": "United States",
+    "population": 147773,
+    "area": 42.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 300,
+    "name": "Round Lake Beach",
+    "country": "United States",
+    "population": 86242,
+    "area": 65.4,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 301,
+    "name": "Sacramento",
+    "country": "United States",
+    "population": 524943,
+    "area": 97.9,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 302,
+    "name": "Saginaw",
+    "country": "United States",
+    "population": 44202,
+    "area": 17.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 303,
+    "name": "Saint Louis",
+    "country": "United States",
+    "population": 301578,
+    "area": 61.9,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 304,
+    "name": "Saint Paul",
+    "country": "United States",
+    "population": 311527,
+    "area": 52.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 305,
+    "name": "Saint Petersburg",
+    "country": "United States",
+    "population": 258308,
+    "area": 61.7,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 306,
+    "name": "Salem",
+    "country": "United States",
+    "population": 175535,
+    "area": 48.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 307,
+    "name": "Salinas",
+    "country": "United States",
+    "population": 163542,
+    "area": 23.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 308,
+    "name": "Salt Lake City",
+    "country": "United States",
+    "population": 200133,
+    "area": 110.4,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 309,
+    "name": "San Antonio",
+    "country": "United States",
+    "population": 1434625,
+    "area": 465.4,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 310,
+    "name": "San Bernardino",
+    "country": "United States",
+    "population": 222101,
+    "area": 59.2,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 311,
+    "name": "San Buenaventura",
+    "country": "United States",
+    "population": 106433,
+    "area": 21.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 312,
+    "name": "San Diego",
+    "country": "United States",
+    "population": 1386932,
+    "area": 325.2,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 313,
+    "name": "San Francisco",
+    "country": "United States",
+    "population": 873965,
+    "area": 46.9,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 314,
+    "name": "San Jose",
+    "country": "United States",
+    "population": 1013240,
+    "area": 176.5,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 315,
+    "name": "Santa Ana",
+    "country": "United States",
+    "population": 310227,
+    "area": 27.1,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 316,
+    "name": "Santa Barbara",
+    "country": "United States",
+    "population": 88665,
+    "area": 19.5,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 317,
+    "name": "Santa Clara",
+    "country": "United States",
+    "population": 127647,
+    "area": 18.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 318,
+    "name": "Santa Clarita",
+    "country": "United States",
+    "population": 228673,
+    "area": 62.7,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 319,
+    "name": "Santa Cruz",
+    "country": "United States",
+    "population": 62956,
+    "area": 12.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 320,
+    "name": "Santa Maria",
+    "country": "United States",
+    "population": 109707,
+    "area": 22.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 321,
+    "name": "Santa Rosa",
+    "country": "United States",
+    "population": 178127,
+    "area": 41.3,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 322,
+    "name": "Sarasota",
+    "country": "United States",
+    "population": 54841,
+    "area": 24.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 323,
+    "name": "Savannah",
+    "country": "United States",
+    "population": 147780,
+    "area": 103.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 324,
+    "name": "Scottsdale",
+    "country": "United States",
+    "population": 241361,
+    "area": 184.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 325,
+    "name": "Scranton",
+    "country": "United States",
+    "population": 76328,
+    "area": 25.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 326,
+    "name": "Seaside",
+    "country": "United States",
+    "population": 95438,
+    "area": 37.3,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 327,
+    "name": "Seattle",
+    "country": "United States",
+    "population": 749256,
+    "area": 83.9,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 328,
+    "name": "Sebastian",
+    "country": "United States",
+    "population": 111783,
+    "area": 76.1,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 329,
+    "name": "Shreveport",
+    "country": "United States",
+    "population": 187593,
+    "area": 105.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 330,
+    "name": "Simi Valley",
+    "country": "United States",
+    "population": 126356,
+    "area": 41.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 331,
+    "name": "Sioux City",
+    "country": "United States",
+    "population": 85797,
+    "area": 58.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 332,
+    "name": "Sioux Falls",
+    "country": "United States",
+    "population": 192517,
+    "area": 78.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 333,
+    "name": "South Bend",
+    "country": "United States",
+    "population": 103453,
+    "area": 41.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 334,
+    "name": "South Lyon",
+    "country": "United States",
+    "population": 90398,
+    "area": 64.2,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 335,
+    "name": "Spartanburg",
+    "country": "United States",
+    "population": 38732,
+    "area": 20.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 336,
+    "name": "Spokane",
+    "country": "United States",
+    "population": 228989,
+    "area": 68.7,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 337,
+    "name": "Springdale",
+    "country": "United States",
+    "population": 92713,
+    "area": 69.8,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 338,
+    "name": "Springfield",
+    "country": "United States",
+    "population": 169176,
+    "area": 61.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 339,
+    "name": "St. Louis",
+    "country": "United States",
+    "population": 301578,
+    "area": 61.9,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 340,
+    "name": "St. Paul",
+    "country": "United States",
+    "population": 311527,
+    "area": 52.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 341,
+    "name": "St. Petersburg",
+    "country": "United States",
+    "population": 258308,
+    "area": 61.7,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 342,
+    "name": "Stamford",
+    "country": "United States",
+    "population": 135470,
+    "area": 38.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 343,
+    "name": "Sterling Heights",
+    "country": "United States",
+    "population": 134346,
+    "area": 36.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 344,
+    "name": "Stockton",
+    "country": "United States",
+    "population": 320804,
+    "area": 61.7,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 345,
+    "name": "Sunnyvale",
+    "country": "United States",
+    "population": 155805,
+    "area": 22.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 346,
+    "name": "Syracuse",
+    "country": "United States",
+    "population": 148620,
+    "area": 25.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 347,
+    "name": "Tacoma",
+    "country": "United States",
+    "population": 219346,
+    "area": 49.1,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 348,
+    "name": "Tallahassee",
+    "country": "United States",
+    "population": 196169,
+    "area": 100.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 349,
+    "name": "Tampa",
+    "country": "United States",
+    "population": 384959,
+    "area": 113.4,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 350,
+    "name": "Temecula",
+    "country": "United States",
+    "population": 110003,
+    "area": 37.0,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 351,
+    "name": "Tempe",
+    "country": "United States",
+    "population": 180587,
+    "area": 40.1,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 352,
+    "name": "Thornton",
+    "country": "United States",
+    "population": 141867,
+    "area": 35.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 353,
+    "name": "Thousand Oaks",
+    "country": "United States",
+    "population": 126966,
+    "area": 55.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 354,
+    "name": "Toledo",
+    "country": "United States",
+    "population": 270871,
+    "area": 80.7,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 355,
+    "name": "Topeka",
+    "country": "United States",
+    "population": 126587,
+    "area": 60.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 356,
+    "name": "Torrance",
+    "country": "United States",
+    "population": 147067,
+    "area": 20.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 357,
+    "name": "Trenton",
+    "country": "United States",
+    "population": 90871,
+    "area": 7.6,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 358,
+    "name": "Tucson",
+    "country": "United States",
+    "population": 542629,
+    "area": 226.7,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 359,
+    "name": "Tulsa",
+    "country": "United States",
+    "population": 413066,
+    "area": 196.8,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 360,
+    "name": "Tuscaloosa",
+    "country": "United States",
+    "population": 100618,
+    "area": 60.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 361,
+    "name": "Tyler",
+    "country": "United States",
+    "population": 105995,
+    "area": 54.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 362,
+    "name": "Utica",
+    "country": "United States",
+    "population": 65283,
+    "area": 16.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 363,
+    "name": "Vallejo",
+    "country": "United States",
+    "population": 126090,
+    "area": 30.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 364,
+    "name": "Vancouver",
+    "country": "United States",
+    "population": 190915,
+    "area": 48.7,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 365,
+    "name": "Vero Beach",
+    "country": "United States",
+    "population": 62505,
+    "area": 65.1,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 366,
+    "name": "Victorville",
+    "country": "United States",
+    "population": 134810,
+    "area": 73.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 367,
+    "name": "Virginia Beach",
+    "country": "United States",
+    "population": 459470,
+    "area": 249.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 368,
+    "name": "Visalia",
+    "country": "United States",
+    "population": 141384,
+    "area": 36.0,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 369,
+    "name": "Waco",
+    "country": "United States",
+    "population": 138486,
+    "area": 89.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 370,
+    "name": "Warren",
+    "country": "United States",
+    "population": 139387,
+    "area": 34.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 371,
+    "name": "Washington",
+    "country": "United States",
+    "population": 689545,
+    "area": 61.1,
+    "description": "A well-known city famous for its landmarks and community spirit.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 372,
+    "name": "Waterbury",
+    "country": "United States",
+    "population": 114403,
+    "area": 28.0,
+    "description": "A historic city that has evolved into a major economic center.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 373,
+    "name": "Waterloo",
+    "country": "United States",
+    "population": 67314,
+    "area": 61.0,
+    "description": "A dynamic metropolitan area offering diverse opportunities and attractions.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 374,
+    "name": "West Covina",
+    "country": "United States",
+    "population": 109501,
+    "area": 16.0,
+    "description": "A vibrant city known for its cultural heritage and modern amenities.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 375,
+    "name": "West Valley City",
+    "country": "United States",
+    "population": 140230,
+    "area": 35.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 376,
+    "name": "Westminster",
+    "country": "United States",
+    "population": 90911,
+    "area": 10.0,
+    "description": "A residential and commercial city with excellent quality of life.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 377,
+    "name": "Wichita",
+    "country": "United States",
+    "population": 397532,
+    "area": 160.0,
+    "description": "An important urban center with a rich history and growing economy.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 378,
+    "name": "Wilmington",
+    "country": "United States",
+    "population": 117525,
+    "area": 17.0,
+    "description": "A growing city with a strong focus on technology and innovation.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  },
+  {
+    "id": 379,
+    "name": "Winston",
+    "country": "United States",
+    "population": 249545,
+    "area": 133.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Skyline_of_Manhattan.jpg/1280px-Skyline_of_Manhattan.jpg"
+  },
+  {
+    "id": 380,
+    "name": "Winter Haven",
+    "country": "United States",
+    "population": 49109,
+    "area": 31.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg/1280px-Chicago_from_North_Avenue_Beach_June_2015_panorama_2.jpg"
+  },
+  {
+    "id": 381,
+    "name": "Worcester",
+    "country": "United States",
+    "population": 206518,
+    "area": 37.4,
+    "description": "A popular destination known for outdoor activities and scenic views.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/NYC_skyline-14606.jpg"
+  },
+  {
+    "id": 382,
+    "name": "Yakima",
+    "country": "United States",
+    "population": 96968,
+    "area": 27.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Chicago_Skyline_in_April_2024.jpg/1280px-Chicago_Skyline_in_April_2024.jpg"
+  },
+  {
+    "id": 383,
+    "name": "Yonkers",
+    "country": "United States",
+    "population": 211569,
+    "area": 18.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Chicago_Skyline_%28120646907%29.jpeg/1280px-Chicago_Skyline_%28120646907%29.jpeg"
+  },
+  {
+    "id": 384,
+    "name": "York",
+    "country": "United States",
+    "population": 44800,
+    "area": 5.0,
+    "description": "An industrial and commercial hub with a mix of historic and modern architecture.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/New_York_Skyline%2C_New_York_City%2C_U.S.jpg/1280px-New_York_Skyline%2C_New_York_City%2C_U.S.jpg"
+  },
+  {
+    "id": 385,
+    "name": "Youngstown",
+    "country": "United States",
+    "population": 60068,
+    "area": 34.0,
+    "description": "A thriving community with strong educational institutions and parks.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Iconic_Skyline_of_New_York_City.jpg/960px-Iconic_Skyline_of_New_York_City.jpg"
+  }
+]
